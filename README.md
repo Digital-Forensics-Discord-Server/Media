@@ -1,5 +1,5 @@
 # Media
-A repository to host emojis used in the Digital Forensics Discord Server.
+A repository to host various media used in the Digital Forensics Discord Server.
 
 # Special Thanks
 
